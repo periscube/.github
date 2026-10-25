@@ -38,9 +38,9 @@ Founded in London (**Periscube Ltd, Est. 2011**) with global engineering hubs in
 ## Connect with a Principal Architect
 
 - **Website (English):** [https://periscube.com](https://periscube.com)
-- **Website (Türkçe - SSB YETEN / EYDEP & Kurumsal):** [https://periscube.com/tr/](https://periscube.com/tr/)
+- **Website (Türkçe):** [https://periscube.com/tr/](https://periscube.com/tr/)
 - **SSB SSTT 2.0 Matrix:** [https://periscube.com/sstt/](https://periscube.com/sstt/)
-- **Corporate Identity & Information Security (Kurumsal Künye & BGYS):** [https://periscube.com/kurumsal/](https://periscube.com/kurumsal/)
+- **Corporate Identity & Information Security:** [https://periscube.com/kurumsal/](https://periscube.com/kurumsal/)
 - **LinkedIn:** [https://www.linkedin.com/company/periscube](https://www.linkedin.com/company/periscube)
 - **Book a 30-Minute Executive Call:** [https://calendly.com/periscube/30min](https://calendly.com/periscube/30min)
 - **Email:** [hello@periscube.com](mailto:hello@periscube.com)
