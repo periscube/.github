@@ -42,17 +42,19 @@ Our practice pairs 20+ years of verified global delivery with **Boğaziçi Unive
 
 Every Periscube engagement operates on bounded deliverables, fixed pricing, and 100% client IP ownership - never open-ended hourly staff augmentation:
 
-1. **Free 15-Point Waste Auditor (`£0`):** Self-serve `Oracle Exadata`, `Snowflake`, `Data Vault 2.1`, and `Sovereign AI & Blackwell/Hopper LLM Unit Economics` (`78% faster TTFT`, `NVFP4/FP8`, `>85% KV prefix cache`) diagnostic scorecard - [periscube.com/offers/exadata-finops-auditor](https://periscube.com/offers/exadata-finops-auditor/)
-2. **5-Day Fixed-Scope Bottleneck Diagnostic (`£2,000`):** Read-only forensic teardown across `Oracle Exadata`, `Snowflake`, `Data Vault 2.1`, and `Sovereign AI & Blackwell/Hopper LLM Unit Economics` backed by an asymmetric **3x ROI refund guarantee** and zero discovery call required - [periscube.com/offers/5-day-exadata-diagnostic](https://periscube.com/offers/5-day-exadata-diagnostic/)
-3. **4-Week Production Pilot Sprint (`£20,000`):** Fixed 28-day production delivery across `Exadata DBRM`, `Data Vault 2.1`, `300k/s PyArrow`, `Sovereign Blackwell LLM Inference`, or `Air-Gapped CI/CD` (`100%` diagnostic fee credited) - [periscube.com/offers/4-week-pilot-sprint](https://periscube.com/offers/4-week-pilot-sprint/)
-4. **Principal Architecture Continuity Retainer (`£5,000/mo`):** Ongoing telemetry governance, automated PR/DDL gates, and quarterly capacity FinOps - [periscube.com/offers/principal-retainer](https://periscube.com/offers/principal-retainer/)
+All service fees are fixed and quoted in British Pounds (`GBP`, `£`).
+
+1. **Free Dual-Track Executive Self-Audit Scorecard (`£0`):** Choose Track A (`15-Point Exadata, Snowflake & Data Vault 2.1 Waste Scorecard`) or Track B (`Sovereign & Self-Hosted Blackwell/Hopper LLM Unit Economics & Compliance Readiness Scorecard`) - [periscube.com/offers/exadata-finops-auditor](https://periscube.com/offers/exadata-finops-auditor/)
+2. **5-Day Read-Only Forensic Diagnostic (`£7,500` fixed):** Diagnosis only on 1 track (`Database & Lakehouse FinOps` or `Sovereign Blackwell/Hopper LLM Unit Economics`), delivering a quantified waste and latency dossier plus a Board-ready 90-day Remediation Architecture Blueprint (ADR), backed by a **5x Verified Annual Savings Guarantee** (`>= £37,500/year` or a 100% refund) - [periscube.com/offers/5-day-exadata-diagnostic](https://periscube.com/offers/5-day-exadata-diagnostic/)
+3. **28-Day Fixed-Scope Production Sprint (`£30,000` fixed, `£22,500` net after Tier 2 credit):** Solves 1 bounded bottleneck across `Exadata DBRM & SQL SLA Rescue`, `Governed Data Vault 2.1 + dbt/DuckDB`, `Self-Hosted Blackwell/Hopper LLM Inference`, or `Air-Gapped DevSecOps` - [periscube.com/offers/4-week-pilot-sprint](https://periscube.com/offers/4-week-pilot-sprint/)
+4. **Principal Design Authority & Automated Governance Retainer (`£9,000/month`):** Automated `<60-second` CI/CD schema, 3NF, Data Vault, and token gates, `48-hour` async ADR sign-off, and a Monthly Executive Briefing, capped at 3 active enterprise retainers globally - [periscube.com/offers/principal-retainer](https://periscube.com/offers/principal-retainer/)
+5. **Strategic Enterprise & Consortium Architecture Mandate (from `£45,000`):** `8MW-to-64MW` DLC Sovereign AI Data Center `InfraCo / PlatCo` blueprints, multi-jurisdictional confidential computing, and multi-billion-dollar PE M&A technical diligence - [periscube.com/pricing](https://periscube.com/pricing/)
 
 ---
 
 ## Connect With Our Principal Architects
 
-- **Website (English):** [https://periscube.com](https://periscube.com)
-- **Website (Türkçe):** [https://periscube.com/tr/](https://periscube.com/tr/)
+- **Website:** [https://periscube.com](https://periscube.com)
 - **Audited Case Studies:** [https://periscube.com/case-studies/](https://periscube.com/case-studies/)
 - **AI & LLM Technical Dossier (`llms.txt`):** [https://periscube.com/llms.txt](https://periscube.com/llms.txt)
 - **Corporate Identity & ISO/IEC 27001 Security:** [https://periscube.com/information-security-policy/](https://periscube.com/information-security-policy/)
