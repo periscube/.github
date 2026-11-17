@@ -1,46 +1,59 @@
 <p align="center">
   <a href="https://periscube.com">
-    <img src="./banner.png" alt="Periscube - Principal-Led Data Engineering, Sovereign Cloud & Air-Gapped DevSecOps" width="100%" />
+    <img src="https://raw.githubusercontent.com/periscube/.github/main/profile/banner.png" alt="Periscube - Principal-Led Data Engineering, Sovereign AI & Air-Gapped DevSecOps" width="100%" />
   </a>
 </p>
 
 # Periscube (`periscube.com`)
 
-**Principal-Led Data Engineering, Sovereign Cloud & Air-Gapped DevSecOps Architecture for Mission-Critical Enterprises.**
+**Principal-Led Data Engineering, Sovereign AI Data Centers, Self-Hosted Blackwell/Hopper LLM Inference & Air-Gapped DevSecOps for Mission-Critical Enterprises.**
 
-Periscube is an elite, principal-led Enterprise Data Engineering, High-Availability Cloud/On-Prem Architecture, and Air-Gapped DevSecOps consultancy operating from **London** and **Istanbul**.
-Founded in London (**Periscube Ltd, Est. 2011**) with global engineering hubs in London and Istanbul, we architect, rescue, and operate petabyte-scale data platforms and sovereign cloud infrastructure across **Defense & Aerospace**, **Tier-1 Telecommunications**, **Global Investment Banking**, and **Rail/Mobility**.
-
----
-
-## Defense & Enterprise Capabilities Matrix (SSB SSTT 2.0 Aligned)
-
-| SSTT 2.0 Code | Domain | Core Engineering Stack & Capabilities |
-| :--- | :--- | :--- |
-| **A09.01** | **Data & Information Management** (`Veri ve Bilgi Yönetimi`) | High-availability enterprise data warehousing (`Oracle Exadata 19c/23ai RAC`, `Snowflake`, `DuckDB`), `Data Vault 2.1`, `TM Forum SID (GB922)`, and high-throughput ELT/ETL (`ODI 12c`, `dbt`, `Apache Airflow`). |
-| **B13.02** | **Big Data Analytics** (`Büyük Veri Analitiği`) | `300,000+ rows/sec` zero-copy `PyArrow` C++ streaming ingestion, executive BI (`Oracle Analytics Server / OAS`), and governed Text-to-SQL / MCP semantic data workflows. |
-| **B14.07 & B14.12** | **Application (DevSecOps) & Container Security** | Air-gapped CI/CD pipeline design, automated SAST/DAST/SBOM gates, ephemeral developer sandboxes, `Terraform` IaC, CIS-hardened `Packer` Golden AMIs, and `Kubernetes` orchestration. |
-| **B13.01 & A08.04** | **Private Cloud & Distributed Architectures** | Sovereign on-premise cloud infrastructure, dynamic load balancing, fault-tolerant distributed systems, and high-concurrency database rescue (`Advanced DB Resource Management Plans`). |
-| **B14.05 & B09.12** | **Data Security & Middleware Systems** | Database security (`TDE`, immutable auditing, static/dynamic PII data masking), DLP, and high-throughput message-oriented middleware (`Apache Kafka`, `DDS`). |
-| **B09.10 & C07.20** | **Operational Telemetry & Condition Monitoring** | Sub-second sensor, rail, and avionics time-series telemetry ingestion, columnar storage, and anomaly detection backends for predictive maintenance. |
+Periscube (**Periscube Ltd.**, Company No. `07691565`, Registered in England & Wales, Est. 4 July 2011) is a principal-led enterprise architecture and engineering consultancy operating from **London** and **Istanbul**.
+Our Principal Architects and Engineers design, rescue, and govern petabyte-scale data platforms, sovereign cloud control planes, and high-throughput open-weight AI clusters across **Global Financial Services**, **Tier-1 Telecommunications**, **Defense & Public Sector**, **Global Retail**, and **Rail/Mobility**.
 
 ---
 
-## Verified Production Benchmarks
+## Core Architectural Practices
 
-- **99.999% Availability & +40% Database Headroom:** Tuned 10-node `Oracle Exadata 19c RAC` clusters via **Advanced DB Resource Management Plans** and non-invasive CBO SQL Patches, cutting `resmgr:cpu quantum` waits by **99.9%** and freeing **512 parallel threads** with zero hardware spend.
-- **300,000+ Rows/Sec Zero-Copy Streaming:** Engineered a memory-bounded (`<80 MB RAM`) `PyArrow` C++ streaming loader that compressed overnight enterprise data warehouse loads from **14.5 hours to 3.5 hours**.
-- **6 Weeks to 6 Minutes Release Velocity:** Automated air-gapped developer sandboxes and reproducible CI/CD pipelines using `Packer`, `Terraform`, and `Kubernetes`.
-- **25% - 40% Cloud & Licensing FinOps Savings:** Eliminated compute and licensing waste across `Snowflake`, `BigQuery`, `AWS`, and `Oracle` estates within fixed 4-week pilots.
+| Practice Domain | Core Engineering Stack, Regulatory Standards & Capabilities |
+| :--- | :--- |
+| **Sovereign AI Data Centers & Multi-Jurisdictional Compliance** | `8MW-to-64MW` Direct-Liquid-Cooled (`~1.20 PUE`) `InfraCo / PlatCo` control-plane separation, `US CLOUD Act` & `US BIS` GPU compliance, `EU GDPR / AI Act / DORA / CADA SEAL-3 / SecNumCloud / C5 / EU Data Act ($0 egress)`, `CPU/GPU Confidential Computing (TEEs, HSM)`, and inline PII tokenization airlocks. |
+| **Self-Hosted LLM Inference & Token Economics** | Dedicated `NVIDIA Blackwell B200` and `Hopper` GPU clusters, hardware-aware `NVFP4 / FP8` quantization (`~35%` lower GPU memory), `TP4-to-TP8` tensor parallelism (`NVLink / HBM3e`), `>85%` KV prefix caching, and zero-retention `OpenTelemetry` governance. |
+| **Enterprise Data Architecture & Lakehouses** | `TOGAF 9.1`, `Data Vault 2.0 / 2.1` (Hubs, Links, Satellites, PIT, Bridge), `TM Forum SID (GB922)`, `dbt Core / Cloud & Semantic Layer`, `Snowflake`, `Amazon Redshift`, `DuckDB`, and `Polars` with row-level zero-trust security (`Snowflake RLS`, `Oracle VPD`, `AWS Lake Formation`, `Apache Ranger/Atlas`). |
+| **Extreme Database Rescue & Cloud FinOps** | 10-node `Oracle Exadata 19c/23ai RAC` deep tuning (`DBRM v5`, non-invasive CBO SQL patches, `32M/64M` temp tablespaces, `16-bucket` hash staging, `HyperLogLog` bulk stats), monolithic `MS SQL Server` offloading, and multi-cloud `AWS / GCP / Snowflake` FinOps audits. |
+| **High-Throughput Streaming & Industrial IoT** | Memory-bounded (`<80 MB RSS`) `PyArrow` C++ zero-copy streaming at `~300,000 rows/sec` (`Celery 5.6+`, `Redis 8.x`, Linux `inotify`) and `50M+ files/day` rail and industrial telemetry pipelines on `Amazon EKS` (`InfluxDB`, `Grafana`). |
+| **Air-Gapped DevSecOps & Agentic Developer OS** | Pre-accredited `HashiCorp Packer` Golden AMIs, `Terraform` IaC, `Harbor` & hermetic offline `uv` registries, automated SAST/SBOM gates, plus `FastMCP` toolchains and AI Skills driving a `10x` engineering productivity multiplier. |
 
 ---
 
-## Connect with a Principal Architect
+## Audited Production Benchmarks
+
+- **78% Faster LLM Time-to-First-Token & Order-of-Magnitude Token Cost Compression:** Tuned open-weight LLM inference clusters on `NVIDIA Blackwell B200` and `Hopper` GPUs (`>15s to 3.3s` TTFT under a `50%+` concurrency surge) with zero external data retention.
+- **99.999% Availability & +40% Exadata Headroom:** Eliminated `99.9%` of `resmgr:cpu quantum` waits, uncaged `512` parallel hardware threads, and cut nightly batch turnaround by `5.0 hours/day` across a 10-node `Oracle Exadata 19c RAC` cluster (`50M+` subscriber scale) with zero hardware CapEx.
+- **300,000+ Rows/Sec Zero-Copy Streaming (76% Faster Daily Load):** Compressed daily `20 TB` compressed file ingestion (`200,000` files/day, `>20.5B` records) from `14.5 hours to 3.5 hours` using `1/10th` the CPU, RAM, and storage footprint.
+- **6 Weeks to 6 Minutes Release Velocity (>1,000x Speedup):** Pre-accredited `Packer` Golden AMIs and `Amazon EKS` pipelines across a `GBP 1.6B` UK commuter rail IoT program (`50M+` sensor files/day).
+- **~22% Multi-Cloud Spend Recovery & Over £1,000,000/yr License Savings:** Uncovered `~22%` orphaned `AWS / GCP` spend during a `$5B` private equity M&A transition and saved over `£1,000,000 per annum` in UK emergency-services `Oracle` licensing via hard-isolated cluster design.
+
+---
+
+## Fixed-Scope Commercial Value Ladder
+
+Every Periscube engagement operates on bounded deliverables, fixed pricing, and 100% client IP ownership - never open-ended hourly staff augmentation:
+
+1. **Free 15-Point Waste Auditor (`£0`):** Self-serve `Oracle Exadata`, `Snowflake`, and `Data Vault 2.1` diagnostic scorecard - [periscube.com/offers/exadata-finops-auditor](https://periscube.com/offers/exadata-finops-auditor/)
+2. **5-Day Fixed-Scope Bottleneck Diagnostic (`£2,000`):** Read-only forensic teardown backed by an asymmetric **3x ROI refund guarantee** and zero discovery call required - [periscube.com/offers/5-day-exadata-diagnostic](https://periscube.com/offers/5-day-exadata-diagnostic/)
+3. **4-Week Production Pilot Sprint (`£20,000`):** Fixed 28-day production delivery across `Exadata DBRM`, `Data Vault 2.1`, `300k/s PyArrow`, `Sovereign Blackwell LLM Inference`, or `Air-Gapped CI/CD` (`100%` diagnostic fee credited) - [periscube.com/offers/4-week-pilot-sprint](https://periscube.com/offers/4-week-pilot-sprint/)
+4. **Principal Architecture Continuity Retainer (`£5,000/mo`):** Ongoing telemetry governance, automated PR/DDL gates, and quarterly capacity FinOps - [periscube.com/offers/principal-retainer](https://periscube.com/offers/principal-retainer/)
+
+---
+
+## Connect With Our Principal Architects
 
 - **Website (English):** [https://periscube.com](https://periscube.com)
 - **Website (Türkçe):** [https://periscube.com/tr/](https://periscube.com/tr/)
-- **SSB SSTT 2.0 Matrix:** [https://periscube.com/sstt/](https://periscube.com/sstt/)
-- **Corporate Identity & Information Security:** [https://periscube.com/kurumsal/](https://periscube.com/kurumsal/)
+- **Audited Case Studies:** [https://periscube.com/case-studies/](https://periscube.com/case-studies/)
+- **AI & LLM Technical Dossier (`llms.txt`):** [https://periscube.com/llms.txt](https://periscube.com/llms.txt)
+- **Corporate Identity & ISO/IEC 27001 Security:** [https://periscube.com/information-security-policy/](https://periscube.com/information-security-policy/)
+- **Direct Executive Intake:** [https://periscube.com/contact/](https://periscube.com/contact/)
 - **LinkedIn:** [https://www.linkedin.com/company/periscube](https://www.linkedin.com/company/periscube)
-- **Book a 30-Minute Executive Call:** [https://calendly.com/periscube/30min](https://calendly.com/periscube/30min)
 - **Email:** [hello@periscube.com](mailto:hello@periscube.com)
